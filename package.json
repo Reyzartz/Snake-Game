@@ -2,8 +2,10 @@
   "name": "html5-canvas",
   "version": "1.0.0",
   "description": "a basic snake game made in vanilla java script",
-  "main": "index.js",
+  "homepage": "https://reyzartz.github.io/Snake-Game",
+  "main": "index.html",
   "scripts": {
+    "deploy":"gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
