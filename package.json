@@ -2,7 +2,6 @@
   "name": "html5-canvas",
   "version": "1.0.0",
   "description": "a basic snake game made in vanilla java script",
-  "homepage": "https://reyzartz.github.io/Snake-Game",
   "main": "index.html",
   "scripts": {
     "deploy":"gh-pages -d dist",
@@ -15,6 +14,7 @@
   ],
   "author": "Reyan Rahman",
   "license": "ISC",
+  "homepage": "https://reyzartz.github.io/Snake-Game",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
